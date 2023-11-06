@@ -14,3 +14,10 @@ From healthcare's predictive analytics to the creative bursts in digital media a
 As this resource is maintained on GitHub, your insights, updates on live implementations, and real-life examples are not just welcomed; they are essential to the repository's growth.
 
 Dive in to discover, contribute, and keep pace with the rapidly evolving landscape of Generative AI.
+
+- Generative AI Formal Diffinition
+- Generative AI - Large Language Models, (Open-Source & Commercial)
+- Generative AI Use Cases
+- Retail
+- Banking
+- Public Sector
