@@ -21,3 +21,10 @@ Dive in to discover, contribute, and keep pace with the rapidly evolving landsca
 - Retail
 - Banking
 - Public Sector
+
+# Large Language Models (LLMs):
+
+| LLM Model Name  | Description |Link |
+| ------------- | ------------- |-------------|
+| GenAI Stack  | Neo4j has partnered with Docker, LangChain, and Ollama to bring Generative AI to experiment and learn. You can run on your laptop  |[GenAI stack on Github](https://github.com/docker/genai-stack)|
+| Content Cell  | Content Cell  |s|
