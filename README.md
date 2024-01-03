@@ -52,11 +52,11 @@ Dive in to discover, contribute, and keep pace with the rapidly evolving landsca
 
 | Course Name  | Description |
 | ------------- | ------------- |
-| Introduction to Machine Learning |A generalized information-seeking agent system with Large Language Models (LLMs)  | 
+| [KwaiAgents](https://github.com/KwaiKEG/KwaiAgents) |A generalized information-seeking agent system with Large Language Models (LLMs)  |
+| [Morphcast]((https://www.morphcast.com)) |Facial Emotion Recognition AI |
 
-
-- ​
-- Facial Emotion Recognition AI
-- Perplexity AI
 
 # Data Sets:
+- Open access to [NASA’s collection of Earth science data](https://www.earthdata.nasa.gov) for understanding and protecting our home planet
+- Open Data Sets repository from [Oracle​](https://opendata.oraclecloud.com/ords/r/opendata/opendata/search?)
+- Registry of Open Data on [AWS](https://registry.opendata.aws)​
