@@ -25,7 +25,7 @@ Dive in to discover, contribute, and keep pace with the rapidly evolving landsca
 
 | Course Name  | Description |Link |
 | ------------- | ------------- |-------------|
-| GenAI Stack  | Neo4j has partnered with Docker, LangChain, and Ollama to bring Generative AI to experiment and learn. You can run on your laptop  |[GenAI stack on Github](https://github.com/docker/genai-stack)|
+| Large Language Model Course​  | Neo4j has partnered with Docker, LangChain, and Ollama to bring Generative AI to experiment and learn. You can run on your laptop  |[GenAI stack on Github](https://github.com/docker/genai-stack)|
 | Content Cell  | Content Cell  |[fff](https://github.com/docker/genai-stack)|
 
 # Learning Resources - AI/ML:
@@ -36,9 +36,27 @@ Dive in to discover, contribute, and keep pace with the rapidly evolving landsca
 | Content Cell  | Content Cell  |[fff](https://github.com/docker/genai-stack)|
 
 
+
 # Large Language Models (LLMs):
 
 | LLM Model Name  | Description |Link |
 | ------------- | ------------- |-------------|
 | GenAI Stack  | Neo4j has partnered with Docker, LangChain, and Ollama to bring Generative AI to experiment and learn. You can run on your laptop  |[GenAI stack on Github](https://github.com/docker/genai-stack)|
 | Content Cell  | Content Cell  |[fff](https://github.com/docker/genai-stack)|
+
+# Books:
+- [Build a Large Language Model (from Scratch)​](https://www.manning.com/books/build-a-large-language-model-from-scratch) by Sebastian Raschka
+- s
+
+# Tools:
+
+| Course Name  | Description |
+| ------------- | ------------- |
+| Introduction to Machine Learning |A generalized information-seeking agent system with Large Language Models (LLMs)  | 
+
+
+- ​
+- Facial Emotion Recognition AI
+- Perplexity AI
+
+# Data Sets:
