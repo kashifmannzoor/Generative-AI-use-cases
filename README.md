@@ -26,6 +26,7 @@ Dive in to discover, contribute, and keep pace with the rapidly evolving landsca
 | Course Name  | Description |Link |
 | ------------- | ------------- |-------------|
 | Large Language Model Course​  | Neo4j has partnered with Docker, LangChain, and Ollama to bring Generative AI to experiment and learn. You can run on your laptop  |[GenAI stack on Github](https://github.com/docker/genai-stack)|
+| ​Large Language Models: Application through Production | Application through Production for developers, data scientists, and engineers looking to build LLM-centric applications. available on edx org  |[LLM](https://www.edx.org/learn/computer-science/databricks-large-language-models-application-through-production)|
 | Content Cell  | Content Cell  |[fff](https://github.com/docker/genai-stack)|
 
 # Learning Resources - AI/ML:
@@ -33,8 +34,8 @@ Dive in to discover, contribute, and keep pace with the rapidly evolving landsca
 | Course Name  | Description |Link |
 | ------------- | ------------- |-------------|
 | Introduction to Machine Learning |University of California, Berkeley, Fall 2023. Covers theoretical foundations, algorithms, methodologies, and applications for machine learning  |[Intro to Machine Learning](https://eecs189.org)|
+| ​Introduction to Machine Learning | Carnegie Mellon University, Spring 2019 |[Intro to ML](https://www.cs.cmu.edu/~ninamf/courses/315sp19/lectures.shtml)|
 | Content Cell  | Content Cell  |[fff](https://github.com/docker/genai-stack)|
-
 
 
 # Large Language Models (LLMs):
@@ -50,10 +51,10 @@ Dive in to discover, contribute, and keep pace with the rapidly evolving landsca
 
 # Tools:
 
-| Course Name  | Description |
+| Tool Name  | Description |
 | ------------- | ------------- |
 | [KwaiAgents](https://github.com/KwaiKEG/KwaiAgents) |A generalized information-seeking agent system with Large Language Models (LLMs)  |
-| [Morphcast]((https://www.morphcast.com)) |Facial Emotion Recognition AI |
+| [Morphcast](https://www.morphcast.com) |Facial Emotion Recognition AI |
 
 
 # Data Sets:
