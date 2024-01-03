@@ -21,10 +21,24 @@ Dive in to discover, contribute, and keep pace with the rapidly evolving landsca
 - Retail
 - Banking
 - Public Sector
+# Learning Resources - Large Language Models (LLMs):
+
+| Course Name  | Description |Link |
+| ------------- | ------------- |-------------|
+| GenAI Stack  | Neo4j has partnered with Docker, LangChain, and Ollama to bring Generative AI to experiment and learn. You can run on your laptop  |[GenAI stack on Github](https://github.com/docker/genai-stack)|
+| Content Cell  | Content Cell  |[fff](https://github.com/docker/genai-stack)|
+
+# Learning Resources - AI/ML:
+
+| Course Name  | Description |Link |
+| ------------- | ------------- |-------------|
+| Introduction to Machine Learning |University of California, Berkeley, Fall 2023. Covers theoretical foundations, algorithms, methodologies, and applications for machine learning  |[Intro to Machine Learning](https://eecs189.org)|
+| Content Cell  | Content Cell  |[fff](https://github.com/docker/genai-stack)|
+
 
 # Large Language Models (LLMs):
 
 | LLM Model Name  | Description |Link |
 | ------------- | ------------- |-------------|
 | GenAI Stack  | Neo4j has partnered with Docker, LangChain, and Ollama to bring Generative AI to experiment and learn. You can run on your laptop  |[GenAI stack on Github](https://github.com/docker/genai-stack)|
-| Content Cell  | Content Cell  |s|
+| Content Cell  | Content Cell  |[fff](https://github.com/docker/genai-stack)|
