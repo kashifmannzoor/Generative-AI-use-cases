@@ -15,13 +15,15 @@ As this resource is maintained on GitHub, your insights, updates on live impleme
 
 Dive in to discover, contribute, and keep pace with the rapidly evolving landscape of Generative AI.
 
-- Generative AI Formal Diffinition
-- Generative AI - Large Language Models, (Open-Source & Commercial)
+- Generative AI Formal Definition
+- Generative AI - Large Language Models (Open-Source & Commercial)
 - Generative AI Use Cases
 - Retail
 - Banking
 - Public Sector
 # Learning Resources - Large Language Models (LLMs):
+
+[Retail and Consumer Goods](https://github.com/kashifmannzoor/Generative-AI-use-cases/blob/main/Retail-and-Consumer-Goods-industry.md)
 
 | Course Name  | Description |Link |
 | ------------- | ------------- |-------------|
