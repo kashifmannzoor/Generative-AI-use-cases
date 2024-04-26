@@ -1,6 +1,6 @@
 # Large Language Models use case for the Retail and Consumer Goods industry:
 
-### ** Usecase: Content generation: create product descriptions from images and text **
+### **Usecase: Content generation: create product descriptions from images and text**
 
 ## Business Challenges:
 
