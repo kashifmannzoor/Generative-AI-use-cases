@@ -20,6 +20,8 @@ Dive in to discover, contribute, and keep pace with the rapidly evolving landsca
 
 # Generative AI Use Cases
 - [Retail and Consumer Goods](https://github.com/kashifmannzoor/Generative-AI-use-cases/blob/main/Retail-and-Consumer-Goods-industry.md)
+  - Content generation: create product descriptions from images and text
+  - Customized Suggestions for e-commerce Shoppers
 - Banking
 - Public Sector
 
