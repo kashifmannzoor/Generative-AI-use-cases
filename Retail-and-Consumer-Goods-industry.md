@@ -18,6 +18,7 @@ Customer Engagement: Generic or poorly written product descriptions can only cap
 #### AI Solution Description:
 > [!CAUTION]
 > Contribute with suggestions for a solution approach to improve
+
 Large language models can automate the creation of product descriptions by analyzing images and existing text data about products. 
 
 When integrated into retail systems, these AI models use advanced algorithms to interpret product images, extracting features like color, shape, and style. 
@@ -85,6 +86,7 @@ Customer Retention: Keeping customers engaged and loyal in a competitive market 
 #### AI Solution Description:
 > [!CAUTION]
 > Contribute with suggestions for a solution approach to improve
+
 Large language models can enhance the shopping experience by generating customized product suggestions. 
 
 These AI systems analyze customers' past shopping behaviors, preferences, and interactions to recommend products that align with their tastes and needs. 
