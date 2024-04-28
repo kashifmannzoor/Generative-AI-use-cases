@@ -87,8 +87,10 @@ Large language models can enhance the shopping experience by generating customiz
 These AI systems analyze customers' past shopping behaviors, preferences, and interactions to recommend products that align with their tastes and needs. 
 
 By processing available data, the models predict what products a customer might like next and present these suggestions in real time as they shop online or navigate through the store.
+> [!Suggest, Improve]
+> Contribute with suggestions for a solution approach
 
-Expected Impact/Business Outcome:
+#### Expected Impact/Business Outcome:
 
 Revenue: Personalized recommendations can drive sales by making it easier for customers to find products they like, increasing average order values.
 
