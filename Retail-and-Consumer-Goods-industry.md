@@ -35,8 +35,8 @@ Combining insights from both analyses, the model crafts descriptive, clear, and 
 Review and Optimization: 
 
 The generated descriptions are then fine-tuned for SEO and brand voice consistency before publication.
-> [!Suggest, Improve]
-> Contribute with suggestions for a solution approach
+> [!CAUTION]
+> Contribute with suggestions for a solution approach to improve
 
 #### Expected Impact/Business Outcome:
 
@@ -87,8 +87,8 @@ Large language models can enhance the shopping experience by generating customiz
 These AI systems analyze customers' past shopping behaviors, preferences, and interactions to recommend products that align with their tastes and needs. 
 
 By processing available data, the models predict what products a customer might like next and present these suggestions in real time as they shop online or navigate through the store.
-> [!Suggest, Improve]
-> Contribute with suggestions for a solution approach
+> [!CAUTION]
+> Contribute with suggestions for a solution approach to improve
 
 #### Expected Impact/Business Outcome:
 
