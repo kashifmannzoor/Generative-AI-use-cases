@@ -1,6 +1,8 @@
 # Large Language Models use case for the Retail and Consumer Goods industry:
 
 - Content generation: create product descriptions from images and text
+- Customized Suggestions for e-commerce Shoppers
+
 
 > [!TIP]
 > Various publicly available sources were used to gather these use cases. They are meant to initiate talks and give you a starting point for further refinement to meet your requirements.
