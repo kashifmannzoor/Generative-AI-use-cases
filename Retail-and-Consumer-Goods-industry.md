@@ -16,6 +16,8 @@ Consistency: Ensuring all product descriptions maintain a consistent voice and i
 Customer Engagement: Generic or poorly written product descriptions can only capture consumer interest and positively impact sales.
 
 #### AI Solution Description:
+> [!CAUTION]
+> Contribute with suggestions for a solution approach to improve
 Large language models can automate the creation of product descriptions by analyzing images and existing text data about products. 
 
 When integrated into retail systems, these AI models use advanced algorithms to interpret product images, extracting features like color, shape, and style. 
@@ -35,8 +37,7 @@ Combining insights from both analyses, the model crafts descriptive, clear, and 
 Review and Optimization: 
 
 The generated descriptions are then fine-tuned for SEO and brand voice consistency before publication.
-> [!CAUTION]
-> Contribute with suggestions for a solution approach to improve
+
 
 #### Expected Impact/Business Outcome:
 
@@ -82,13 +83,13 @@ Data Integration: Effectively integrate and utilize vast amounts of customer dat
 Customer Retention: Keeping customers engaged and loyal in a competitive market by continuously offering relevant and appealing products
 
 #### AI Solution Description:
+> [!CAUTION]
+> Contribute with suggestions for a solution approach to improve
 Large language models can enhance the shopping experience by generating customized product suggestions. 
 
 These AI systems analyze customers' past shopping behaviors, preferences, and interactions to recommend products that align with their tastes and needs. 
 
 By processing available data, the models predict what products a customer might like next and present these suggestions in real time as they shop online or navigate through the store.
-> [!CAUTION]
-> Contribute with suggestions for a solution approach to improve
 
 #### Expected Impact/Business Outcome:
 
