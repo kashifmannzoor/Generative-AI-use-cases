@@ -32,7 +32,10 @@ Dive in to discover, contribute, and keep pace with the rapidly evolving landsca
 | ------------- | ------------- |-------------|
 | Large Language Model Course​  | Neo4j has partnered with Docker, LangChain, and Ollama to bring Generative AI to experiment and learn. You can run on your laptop  |[GenAI stack on Github](https://github.com/docker/genai-stack)|
 | ​Large Language Models: Application through Production | Application through Production for developers, data scientists, and engineers looking to build LLM-centric applications. available on edx org  |[LLM](https://www.edx.org/learn/computer-science/databricks-large-language-models-application-through-production)|
+| Red Teaming LLM Applications | This course is from Deep Learning: Learn to Identify and Evaluate Vulnerabilities in Large Language Model (LLM) Applications.  |[Red Teaming](https://www.deeplearning.ai/short-courses/red-teaming-llm-applications/)|
+| CS25  | CS25: Transformers United V4 from Stanford  |[CS25](https://web.stanford.edu/class/cs25/)|
 | Content Cell  | Content Cell  |[fff](https://github.com/docker/genai-stack)|
+
 
 # Learning Resources - AI/ML:
 
