@@ -22,6 +22,8 @@ Dive in to discover, contribute, and keep pace with the rapidly evolving landsca
 - [Retail and Consumer Goods](https://github.com/kashifmannzoor/Generative-AI-use-cases/blob/main/Retail-and-Consumer-Goods-industry.md)
   - Content generation: create product descriptions from images and text
   - Customized Suggestions for e-commerce Shoppers
+  - Sentiment analysis to identify areas of product improvement
+  - Enhance Search with Generative AI on e-commerce
 - Banking
 - Public Sector
 
@@ -34,17 +36,22 @@ Dive in to discover, contribute, and keep pace with the rapidly evolving landsca
 | ​Large Language Models: Application through Production | Application through Production for developers, data scientists, and engineers looking to build LLM-centric applications. available on edx org  |[LLM](https://www.edx.org/learn/computer-science/databricks-large-language-models-application-through-production)|
 | Red Teaming LLM Applications | This course is from Deep Learning: Learn to Identify and Evaluate Vulnerabilities in Large Language Model (LLM) Applications.  |[Red Teaming](https://www.deeplearning.ai/short-courses/red-teaming-llm-applications/)|
 | CS25  | CS25: Transformers United V4 from Stanford  |[CS25](https://web.stanford.edu/class/cs25/)|
+| Local LLM RAG  | Local LLM RAG with Unstructured and LangChain Structured JSON is an excellent video that enables you to replicate this.  |[Local LLM RAG](https://www.youtube.com/watch?v=V7fXGsFMNlA)|
+| Deep Learning Foundations  | Deep Learning Foundations: Large Language Models from Soheil Feizi, CS Prof at UMD, ML/AI, MIT Alum.  |[Deep Learning Foundations](https://www.youtube.com/watch?v=2yjzZfDQxy8)|
+| ​Advanced RAG | ​Advanced RAG with LlamaParse and Reranker collab lab and video |[Advanced RAG](https://github.com/sudarshan-koirala/youtube-stuffs/blob/main/llamaindex/llamaindex_advanced_rag.ipynb)|
+| Content Cell  | Content Cell  |[fff](https://github.com/docker/genai-stack)|
+| Content Cell  | Content Cell  |[fff](https://github.com/docker/genai-stack)|
 | Content Cell  | Content Cell  |[fff](https://github.com/docker/genai-stack)|
 
 
-# Learning Resources - AI/ML:
+# Learning Resources - AI/ML, Data Science:
 
 | Course Name  | Description |Link |
 | ------------- | ------------- |-------------|
 | Introduction to Machine Learning |University of California, Berkeley, Fall 2023. Covers theoretical foundations, algorithms, methodologies, and applications for machine learning  |[Intro to Machine Learning](https://eecs189.org)|
 | ​Introduction to Machine Learning | Carnegie Mellon University, Spring 2019 |[Intro to ML](https://www.cs.cmu.edu/~ninamf/courses/315sp19/lectures.shtml)|
+| Hands-on Data Science  | Hands-on Data Science: Complete your First Project from Mısra Turp  |[Hands-on Data Science](https://www.youtube.com/playlist?list=PLM8lYG2MzHmTgsYKLJtdKwf6tHVbui9eE)|
 | Content Cell  | Content Cell  |[fff](https://github.com/docker/genai-stack)|
-
 
 # Large Language Models (LLMs):
 
