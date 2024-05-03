@@ -3,6 +3,7 @@
 - Content generation: create product descriptions from images and text
 - Customized Suggestions for e-commerce Shoppers
 - Sentiment analysis to identify areas of product improvement
+- Enhance Search with Generative AI on e-commerce, use Large Language Models (LLMs) in the search bar to offer customers search items based on natural language.
 
 
 > [!TIP]
@@ -187,7 +188,56 @@ Cost: Reduces the costs associated with traditional market research methods and 
 #### Strategic Fit and Impact Rating:
 
 Strategic Fit: High
-Utilizing AI for sentiment analysis aligns with the need to be customer-centric and data-driven, which is crucial for competitive differentiation in the retail industry
+Utilizing AI for sentiment analysis aligns with the need to be customer-centric and data-driven, which is crucial for competitive differentiation in the retail industry.
 
 Impact: High
 This application of AI can significantly improve how you understand and react to customer needs, directly influencing customer retention and satisfaction.
+
+### **Usecase: Sentiment analysis to identify areas of product improvement** 
+
+
+#### Business Challenges:
+
+Complex Customer Queries: Traditional search systems may need help interpreting complex or vague customer queries effectively.
+Relevance of Search Results: Ensuring that search results are highly relevant and tailored to individual customer preferences.
+Integration Complexity: Integrating AI/LLM models with existing e-commerce platforms without disrupting current operations.
+
+#### AI Solution Description:
+> [!CAUTION]
+> Contribute with suggestions for a solution approach to improve
+
+Large Language Models (LLMs) can be integrated into e-commerce search bars to enhance search functionality. These models process natural language queries from customers, understanding context and subtleties. They then match these queries with the most relevant products in the database. The implementation involves:
+
+Model Training: LLMs are trained on a diverse dataset comprising product descriptions, customer reviews, and previous search queries to understand industry-specific vocabulary and customer intent.
+Query Processing: When a customer types a query, the LLM analyzes the input in real time to grasp the intent and context.
+Generating Results: The model uses its training to fetch the most relevant products from the catalog, considering factors like popularity, customer reviews, and personalization.
+Feedback Loop: Customer interactions with the search results are fed back into the model to improve accuracy and relevance continuously.
+
+#### Expected Impact/Business Outcome:
+
+Revenue: Improved search accuracy leads to better customer satisfaction and higher conversion rates, boosting sales.
+
+User Experience: Customers enjoy a smoother, more intuitive search experience that quickly connects them to their desired products.
+
+Operations: AI-enhanced search reduces the load on customer support by decreasing the number of customer queries about product finding.
+
+Process: Streamlines the search process, making it more efficient and less prone to errors.
+
+Cost: Initial setup costs are offset by long-term gains in customer retention and increased sales.
+
+#### Required Data Sources:
+- Product catalogs with detailed descriptions
+- Customer interaction data with the search system
+- Historical search query logs
+- Customer feedback on product relevance
+
+#### Strategic Fit and Impact Rating:
+
+Strategic Fit: High
+
+Enhancing search capabilities aligns to improve customer service and operational efficiency.
+
+Impact: High
+
+This solution directly influences the shopping experience and can significantly affect sales performance and customer loyalty.
+
