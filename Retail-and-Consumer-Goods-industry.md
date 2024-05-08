@@ -4,6 +4,7 @@
 - Customized Suggestions for e-commerce Shoppers
 - Sentiment analysis to identify areas of product improvement
 - Enhance Search with Generative AI on e-commerce, use Large Language Models (LLMs) in the search bar to offer customers search items based on natural language.
+- Inventory Management and Demand Forecasting
 
 
 > [!TIP]
