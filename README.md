@@ -24,6 +24,7 @@ Dive in to discover, contribute, and keep pace with the rapidly evolving landsca
   - Customized Suggestions for e-commerce Shoppers
   - Sentiment analysis to identify areas of product improvement
   - Enhance Search with Generative AI on e-commerce
+  - Inventory Management and Demand Forecasting
 - Banking
 - Public Sector
 
