@@ -28,9 +28,8 @@ Dive in to discover, contribute, and keep pace with the rapidly evolving landsca
 - Banking
 - Public Sector
 - [HealthCare](https://github.com/kashifmannzoor/Generative-AI-use-cases/blob/main/HealthCare-industry.md)
-- Media and Entertainment
+- [Media and Entertainment](https://github.com/kashifmannzoor/Generative-AI-use-cases/blob/main/Media-and-Entertainment-industry.md)
 
-  
 # Learning Resources - Large Language Models (LLMs):
 
 | Course Name  | Description |Link |
