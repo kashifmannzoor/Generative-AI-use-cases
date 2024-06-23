@@ -8,7 +8,7 @@
 
 
 > [!TIP]
-> Various publicly available sources were used to gather these use cases. They are meant to initiate talks and give you a starting point for further refinement to meet your requirements.
+> Various publicly available sources and LLMs were used to gather these use cases. They are meant to initiate talks and give you a starting point for further refinement to meet your requirements.
 
 ### **Usecase: Content generation: create product descriptions from images and text**
 
