@@ -31,7 +31,9 @@ Dive in to discover, contribute, and keep pace with the rapidly evolving landsca
 - [Media and Entertainment](https://github.com/kashifmannzoor/Generative-AI-use-cases/blob/main/Media-and-Entertainment-industry.md)
 - [Education Sector](https://github.com/kashifmannzoor/Generative-AI-use-cases/blob/main/Education-industry.md)
   - Personalized Lessons for students
-- .
+- [Telecom Industry](https://github.com/kashifmannzoor/Generative-AI-use-cases/blob/main/Telecom-Industry)
+  - On-the-Go Technician Support for Network Maintenance
+  - . 
 
 # Learning Resources - Large Language Models (LLMs):
 
@@ -56,7 +58,7 @@ Dive in to discover, contribute, and keep pace with the rapidly evolving landsca
 | Introduction to Machine Learning |University of California, Berkeley, Fall 2023. Covers theoretical foundations, algorithms, methodologies, and applications for machine learning  |[Intro to Machine Learning](https://eecs189.org)|
 | ​Introduction to Machine Learning | Carnegie Mellon University, Spring 2019 |[Intro to ML](https://www.cs.cmu.edu/~ninamf/courses/315sp19/lectures.shtml)|
 | Hands-on Data Science  | Hands-on Data Science: Complete your First Project from Mısra Turp  |[Hands-on Data Science](https://www.youtube.com/playlist?list=PLM8lYG2MzHmTgsYKLJtdKwf6tHVbui9eE)|
-| Content Cell  | Content Cell  |[fff](https://github.com/docker/genai-stack)|
+| CUDA Programming Course  | High-Performance Computing with GPUs from Free Code Camp on Youtube  |[CUDA Programming](https://www.youtube.com/watch?v=86FAWCzIe_4)|
 
 # Large Language Models (LLMs):
 
