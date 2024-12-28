@@ -68,6 +68,7 @@ The coded data is automatically populated into the claims submission system, rea
 
 
 #### Required Data Sources:
+
 1. Clinical Documents: Patient records, clinical notes, and treatment summaries.
 2. Coding Standards: Access the latest ICD-10, CPT, and medical coding databases.
 3. Historical Claims Data: Previous claims data to train and fine-tune the LLM for better accuracy.
@@ -79,7 +80,8 @@ Implementing LLMs for medical coding aligns with the strategic goals of improvin
 
 Impact: High
 The solution significantly impacts revenue, user experience, operations, and compliance, making it a precious investment for healthcare organizations.
-------------
+
+-------------------------------------------------------------------------------------------------------------------------------
 ### **Usecase: Medical Imaging Analysis in Healthcare with LLMs**
 
 #### Business Challenges:
@@ -90,9 +92,12 @@ The solution significantly impacts revenue, user experience, operations, and com
 	•	Consistency: Maintaining consistent diagnostic results across different medical professionals and institutions.
 
 #### AI Solution Description:
+
 > [!CAUTION]
 > Contribute with suggestions for a solution approach to improve
+
 Implementation with Large Language Models (LLMs):
+
 •	Image Analysis: LLMs, combined with advanced image recognition models, can analyze medical images such as X-rays, MRIs, and CT scans to detect abnormalities and diagnose conditions.
 •	Automated Reporting: Based on the analysis, LLMs can generate detailed, standardized reports that highlight potential issues and suggest further steps.
 •	Training and Adaptation: The models are trained on extensive datasets of annotated medical images to learn patterns and features indicative of various conditions.
@@ -112,13 +117,18 @@ This precise, automated process significantly improves the accuracy and efficien
 #### Expected Impact/Business Outcome:
 
 Revenue: Improved diagnostic accuracy and efficiency can lead to higher patient throughput and reduced costs.
+
 User Experience: Faster, more accurate diagnostics enhance patient satisfaction and trust in healthcare services.
+
 Operations: Automating image analysis reduces radiologists' workload, allowing them to focus on complex cases.
+
 Process: Streamlined processes for analyzing medical images and generating reports increase operational efficiency.
+
 Cost: Reduced need for manual image analysis lowers labor costs and minimizes errors, leading to cost savings.
 
 
 #### Required Data Sources:
+
 	•	Annotated medical images (X-rays, MRIs, CT scans)
 	•	Clinical records for training and validation
 	•	Radiology reports for model fine-tuning
@@ -180,6 +190,7 @@ Cost: Lowers transcription costs and minimizes error-related expenses, contribut
 
 
 #### Required Data Sources:
+
 - Audio Recordings of Doctor-Patient Conversations: Real-world conversational data for training and testing.
 - Medical Terminology and Taxonomies: Healthcare-specific language data to enhance the LLM’s understanding of medical terms
 - EHR Templates and Documentation Standards: Structure guidelines to ensure compliance with healthcare documentation standards
@@ -191,4 +202,15 @@ This solution has a **high strategic impact** on the healthcare industry due to 
 
 It aligns with healthcare providers’ goals to optimize resource utilization, improve compliance, and streamline administrative processes.
 
--------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------
+everal use cases for healthcare providers aiming to increase operational efficiency, reduce administrative burden, and improve patient satisfaction. The impact is significant across revenue, user experience, and operations, as it addresses a key pain point in healthcare.
+
+A paper, 'Large Language Models in Healthcare and Medical Domain: A Review,' covers the use cases in three distinct areas.
+
+
+![Large Language Models in Healthcare and Medical Domain](https://github.com/user-attachments/assets/b0ad4d2b-ccfc-4b2e-9448-e88ad4de7e70)
+
+
+Source: Paper: Large Language Models in Healthcare and Medical Domain: A Review
+
+-------------------------------------------------------------------------------------------------------------------------------
