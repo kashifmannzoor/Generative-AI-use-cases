@@ -34,6 +34,9 @@ Dive in to discover, contribute, and keep pace with the rapidly evolving landsca
 - [Telecom Industry](https://github.com/kashifmannzoor/Generative-AI-use-cases/blob/main/Telecom-Industry)
   - On-the-Go Technician Support for Network Maintenance
   - . 
+Download: 100+ Generative AI Use Cases Across Industries: [100+ Generative AI Use Cases Across Industries](https://aitechcircle.com)
+![Generative-AI-use-cases](https://github.com/user-attachments/assets/5ffde232-3b49-47ee-9e98-20dbb569e23b)
+
 
 # Learning Resources - Large Language Models (LLMs):
 
