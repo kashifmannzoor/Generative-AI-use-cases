@@ -35,7 +35,8 @@ Dive in to discover, contribute, and keep pace with the rapidly evolving landsca
   - On-the-Go Technician Support for Network Maintenance
   - . 
 Download: 100+ Generative AI Use Cases Across Industries: [100+ Generative AI Use Cases Across Industries](https://aitechcircle.com)
-![Generative-AI-use-cases](https://github.com/user-attachments/assets/5ffde232-3b49-47ee-9e98-20dbb569e23b)
+![Generative-AI-use-cases](https://github.com/user-attachments/assets/0f362fe0-d917-456f-a32d-b54819576fbf)
+
 
 
 # Learning Resources - Large Language Models (LLMs):
